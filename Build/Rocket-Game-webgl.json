@@ -1,0 +1,16 @@
+{
+"companyName": "SaltedGames",
+"productName": "Rocket-Game",
+"productVersion": "1.0",
+"dataUrl": "Rocket-Game-webgl.data.unityweb",
+"wasmCodeUrl": "Rocket-Game-webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rocket-Game-webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
